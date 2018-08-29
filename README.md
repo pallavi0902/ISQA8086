@@ -4,4 +4,4 @@
 
 ### For License Information [click here](https://github.com/pallavi0902/ISQA8086/blob/master/LICENSE)
 
-###### ![Saritocat](https://octodex.github.com/images/saritocat.png) = 25x25
+###### ![Saritocat](https://octodex.github.com/images/saritocat.png) | (width = 40)
