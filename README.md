@@ -2,4 +2,4 @@
 
 _All the information regarding indiviual projects are here._
 
-##For License Information [click here](https://github.com/pallavi0902/ISQA8086/blob/master/LICENSE)
+For License Information [click here](https://github.com/pallavi0902/ISQA8086/blob/master/LICENSE)
