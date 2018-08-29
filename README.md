@@ -1,7 +1,7 @@
 # **ISQA8086: Data to decisions**
 
-## _All the information regarding indiviual projects are here._
+## _All the information regarding indiviual assignments are here._
 
 ### For License Information [click here](https://github.com/pallavi0902/ISQA8086/blob/master/LICENSE)
 
-###### ![Saritocat](https://octodex.github.com/images/saritocat.png) | (width = 40)
+###### ![Saritocat](https://www.pinterest.com/pin/303078249902290917/) 
