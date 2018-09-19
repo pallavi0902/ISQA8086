@@ -1,5 +1,5 @@
 
-** Following are the errors that I found in the 3 data files:
+## Following are the errors that I found in the 3 data files:
 
 1. In all three data files, there is no time column. According to me, it should be there as it was mentioned that samples were taken at noon as well as night. Also, should specify timezone.
 2. Given data files has 'Temperature' column but it isn't specifying which temperature scale they used. I am used to Celsius whereas some are used to Fahrenheit and then there is kelvin, which is the unit of temperature in the International System of Units ( SI ). So, to avoid confusion, they should mention which scale they have used.
@@ -12,7 +12,7 @@
 9. Column name are changed or different in all three data files.
 10. I was trying to figure out _#/L_ in Cuni and Chippo. It would have been better if they could have explained it. 
 
-** Following are the suggestions for the new system:
+## Following are the suggestions for the new system:
 
 1. First, I would say having data in a neat manner will solve a lot of problems because in order to beautify your dataset, you have to take steps like making column name bolder, filling missing coloumns as 'N/A', having a graph with both axis, etc.
 2. There are different people working on datasets, seeing and doing things differently. Like I mentioned about the temperature, not everyone will be taking that temperature as Fahrenheit, you never know. So, to make consensus, defining temperature scale in bracket in the coloumn name would be great. 
