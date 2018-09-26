@@ -1,9 +1,10 @@
 ![LLNF](http://www.jordanre.com/blog/files/2016/08/linda_loring_butterfly.jpg)
+_Picture Courtsey: Linda Loring Nature Foundation_
                                      
                                      
   # Background Research Report
 
-#### Linda Loring Nature Foundation
+### Linda Loring Nature Foundation
                               
 
 Linda Loring Nature Foundation, established in 1999 at Nantucket, Massachusetts.
