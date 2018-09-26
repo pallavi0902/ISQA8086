@@ -22,7 +22,7 @@ keep learning about their upcoming events. During my research, I checked their
 Facebook page which has user rating of 4.8 out of 5. I also read user reviews which
 were very positive. One of the user said – _“One of our favorite places to visit for a
 family adventure. We especially love their seasonal Story Walks”_. Since Linda Loring
-Nature Foundation is a non-profit organization, public community plays an
+Nature Foundation is a **non-profit organization**, public community plays an
 important role because public confidence is a factor in the amount of money that a
 non-profit organization is able to raise. Linda Loring Nature Foundation has
 different mission, vision and goals than a profitable institution. For a non-profit
@@ -57,7 +57,7 @@ year 2017, 18-acre tract was donated to LLNF by Nature Conservancy.
 
 We chose Linda Loring Nature Foundation phenology dataset as our area of research
 and data analysis project. Phenology, according to Phenological Research book, is
-the study of the timing of recurring biological events”. So, when I was researching
+"the study of the timing of recurring biological events”. So, when I was researching
 for phenological area of study which relevant to our project, I came across ‘Plant
 phenological research enhances ecological restoration’ article. From this article, I
 learned about a very important aspect of phenology research which could be helpful
@@ -79,15 +79,15 @@ to explore innovative questions on drivers and patterns in phenology. Article
 suggests gathering of local plant material, because they are best for carrying out
 restoration, which can be an easy task for LLNF as it has 104 acre of local landscape
 in its possession which is dedicated to plants and animals. It is to be noted,
-according to Miller et al. 2011, that Information on the dates of budbreak,
+according to _Miller et al. 2011_, that Information on the dates of budbreak,
 germination, flowering and/or seed set, and on flower abundance have proven
 essential to guarantee that using locally adapted seed sources preserves adequate
 phenological cycles and to ensure the reproductive success of introduced species.
-Furthermore, according to Hagen et al. 2012, leaf, flower and fruit phenologies link
+Furthermore, according to _Hagen et al. 2012_, leaf, flower and fruit phenologies link
 plants to herbivores, pollinators, frugivores, and seed dispersers, studying plant
 phenology involves taking into account resource availability and interaction
 networks, encompassing ecosystem and landscape complexity. One of the instances
-given by Garcia et al. 2014, phenology can provide restorationists with a method that
+given by _Garcia et al. 2014_, phenology can provide restorationists with a method that
 selects plant species based on the timing of fruiting. This method will help them to
 attract potential seed dispersers and provide fruits all year long. These kind of
 methods can really help Linda Loring Nature Foundation to increase efficiency 
@@ -95,7 +95,7 @@ because experimenting new and innovative methods will bring a lot of enthusiasm,
 freshness and energy in their researches.
 
 One more topic that I would like to bring to the light of my report is regarding Linda
-Loring Nature Foundation advocacy and policy. I happened to read ‘A guide to
+Loring Nature Foundation **advocacy and policy**. I happened to read ‘A guide to
 measure Advocacy and Policy’, from which I learned that non-profit organizations
 and foundations measure their advocacy and policy work as there is no common
 evaluation approach exists in present. As Linda Loring Nature Foundation is a nonprofit
@@ -133,6 +133,6 @@ C. Morellato5 https://onlinelibrary.wiley.com/doi/pdf/10.1111/rec.12471
 
 * https://en.wikipedia.org/wiki/Nonprofit_organization#Nonprofit_vs._notfor-profit
 
-*https://llnf.org/research
+* https://llnf.org/research
 
-*https://en.wikipedia.org/wiki/Phenology
+* https://en.wikipedia.org/wiki/Phenology
