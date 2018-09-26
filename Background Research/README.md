@@ -1,5 +1,4 @@
-![LLNF](http://www.jordanre.com/blog/files/2016/08/linda_loring_butterfly.jpg)
-_Picture Courtsey: Linda Loring Nature Foundation_
+![LLNF](http://www.jordanre.com/blog/files/2016/08/linda_loring_butterfly.jpg) _Picture Courtsey: Linda Loring Nature Foundation_
                                      
                                      
   # Background Research Report
@@ -112,27 +111,27 @@ changing communities, organization management and its system.
 
 ## References:
 
-*Elise Buisson1,2, Swanni T. Alvarado3,4, Soizig Le Stradic4,5, Leonor Patricia
+* Elise Buisson1,2, Swanni T. Alvarado3,4, Soizig Le Stradic4,5, Leonor Patricia
 C.Morellato5 http://www.orsimpact.com/DirectoryAttachments/1132017_44733
 _727_HFRP-Evaluation-Exchange-Guide-to-Measuring-Advocacy-Policy.pdf
 
-*Hagen M, Kissling WD, Rasmussen C, De Aguiar MAM, Brown LE,
+* Hagen M, Kissling WD, Rasmussen C, De Aguiar MAM, Brown LE,
 Carstensen DW, et al. (2012) Biodiversity, species interactions and ecological
 networks in a fragmented world. Advanced Ecological Research 46: 89–120
 
-*Garcia LC, Hobbs RJ, Mäes dos Santos FA, Rodrigues RR (2014) Flower and
+* Garcia LC, Hobbs RJ, Mäes dos Santos FA, Rodrigues RR (2014) Flower and
 fruit availability along a forest restoration gradient. Biotropica 46: 114–123
 
-*Miller SA, Bartow A, Gisler M, Ward K, Young AS, Kaye TN (2011) Can an
+* Miller SA, Bartow A, Gisler M, Ward K, Young AS, Kaye TN (2011) Can an
 ecoregion serve as a seed transfer zone? Evidence from a common garden
 study with five native species. Restoration Ecology 19: 268–276
 
-*Elise Buisson1,2, Swanni T. Alvarado3,4, Soizig Le Stradic4,5, Leonor Patricia
+* Elise Buisson1,2, Swanni T. Alvarado3,4, Soizig Le Stradic4,5, Leonor Patricia
 C. Morellato5 https://onlinelibrary.wiley.com/doi/pdf/10.1111/rec.12471
 
 * https://nantucket.net/
 
-*https://en.wikipedia.org/wiki/Nonprofit_organization#Nonprofit_vs._notfor-profit
+* https://en.wikipedia.org/wiki/Nonprofit_organization#Nonprofit_vs._notfor-profit
 
 *https://llnf.org/research
 
