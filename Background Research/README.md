@@ -1,12 +1,9 @@
-                                     ![](linda_loring_butterfly.jpg)
+![LLNF](http://www.jordanre.com/blog/files/2016/08/linda_loring_butterfly.jpg)
                                      
                                      
-                                     #Background Research Report
+  # Background Research Report
 
-         The kind of decisions, interventions, or actions that analysis results could support
-                (e.g., management actions, advocacy for policy changes, etc.)
-                              
-                              Linda Loring Nature Foundation
+#### Linda Loring Nature Foundation
                               
 
 Linda Loring Nature Foundation, established in 1999 at Nantucket, Massachusetts.
@@ -23,8 +20,8 @@ engage more people who would like to be in the lap of nature. Their Facebook and
 Instagram handle are really well managed and updated which helps audience to
 keep learning about their upcoming events. During my research, I checked their
 Facebook page which has user rating of 4.8 out of 5. I also read user reviews which
-were very positive. One of the user said – “One of our favorite places to visit for a
-family adventure. We especially love their seasonal Story Walks”. Since Linda Loring
+were very positive. One of the user said – _“One of our favorite places to visit for a
+family adventure. We especially love their seasonal Story Walks”_. Since Linda Loring
 Nature Foundation is a non-profit organization, public community plays an
 important role because public confidence is a factor in the amount of money that a
 non-profit organization is able to raise. Linda Loring Nature Foundation has
@@ -64,8 +61,8 @@ the study of the timing of recurring biological events”. So, when I was resear
 for phenological area of study which relevant to our project, I came across ‘Plant
 phenological research enhances ecological restoration’ article. From this article, I
 learned about a very important aspect of phenology research which could be helpful
-to Linda Loring Nature Foundation in terms of _conservation science and
-management_. Like the title of the article suggests, it emphasis on ecological
+to Linda Loring Nature Foundation in terms of **conservation science and
+management**. Like the title of the article suggests, it emphasis on ecological
 restoration through plant phenological research. Two of our research question are
 directly related to plant phenological data provided by Linda Loring Nature
 Foundation-- first, “Where do leafing activities occur the most among 8 sites?”,
@@ -112,7 +109,7 @@ capacity, strengthened alliances, strengthened base of support, improved policie
 change in impact, which represents how advocacy and policy work can lead to
 changing communities, organization management and its system.
 
-#References:
+## References:
 
 *Elise Buisson1,2, Swanni T. Alvarado3,4, Soizig Le Stradic4,5, Leonor Patricia
 C.Morellato5 http://www.orsimpact.com/DirectoryAttachments/1132017_44733
