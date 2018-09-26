@@ -1,11 +1,14 @@
-Background Research Report
-The kind of decisions, interventions, or actions that analysis results could support
-(e.g., management actions, advocacy for policy changes, etc.)
-Linda Loring Nature Foundation
-ISQA8086: Data to Decisions | 09/16/2018
-Submitted to: Submitted by:
-Dr. Andrea Wiggins Pallavi Chauhan
-PAGE 1
+                                     ![](linda_loring_butterfly.jpg)
+                                     
+                                     
+                                     #Background Research Report
+
+         The kind of decisions, interventions, or actions that analysis results could support
+                (e.g., management actions, advocacy for policy changes, etc.)
+                              
+                              Linda Loring Nature Foundation
+                              
+
 Linda Loring Nature Foundation, established in 1999 at Nantucket, Massachusetts.
 It focuses on three major areas of work vis-à-vis Ecological Research, Environmental
 Education, and Land Stewardship. Because Linda Loring Nature Foundation does
@@ -43,21 +46,26 @@ different goals and vision but when it comes to practicing ethical business prac
 LLNF is doing a good job. An organization cannot survive for a long time if they are
 not following business ethics. In the long run, an organization to be successful needs
 to do all its organization’s work process in an ethical and standard manner.
-Organization’s often to grow fast take paths of unethical practices which eventu
-PAGE 2
+Organization’s often to grow fast take paths of unethical practices which eventually
+lead the organization to fall. Like any other non-profit organization, Linda Loring
+Nature Foundation manage its sustainability by establishing strong relations with
+various donor groups. To establish relations with donors, it takes strong donor
+marketing strategy. So, it is not that if an organization is non-profit, they would
+simply be getting volunteers, donors, funds all automatically but to get all this, 
 organization need to work hard and together in a management setting because that
 is what it takes for an organization to drive a shared goal and it doesn’t matter
 whether it is a non-profit organization like LLNF or a profitable institution. One of
 the biggest and memorable donation Linda Loring Nature Foundation got was in
 year 2017, 18-acre tract was donated to LLNF by Nature Conservancy.
+
 We chose Linda Loring Nature Foundation phenology dataset as our area of research
 and data analysis project. Phenology, according to Phenological Research book, is
 the study of the timing of recurring biological events”. So, when I was researching
 for phenological area of study which relevant to our project, I came across ‘Plant
 phenological research enhances ecological restoration’ article. From this article, I
 learned about a very important aspect of phenology research which could be helpful
-to Linda Loring Nature Foundation in terms of conservation science and
-management. Like the title of the article suggests, it emphasis on ecological
+to Linda Loring Nature Foundation in terms of _conservation science and
+management_. Like the title of the article suggests, it emphasis on ecological
 restoration through plant phenological research. Two of our research question are
 directly related to plant phenological data provided by Linda Loring Nature
 Foundation-- first, “Where do leafing activities occur the most among 8 sites?”,
@@ -86,9 +94,9 @@ given by Garcia et al. 2014, phenology can provide restorationists with a method
 selects plant species based on the timing of fruiting. This method will help them to
 attract potential seed dispersers and provide fruits all year long. These kind of
 methods can really help Linda Loring Nature Foundation to increase efficiency 
-PAGE 3
 because experimenting new and innovative methods will bring a lot of enthusiasm,
 freshness and energy in their researches.
+
 One more topic that I would like to bring to the light of my report is regarding Linda
 Loring Nature Foundation advocacy and policy. I happened to read ‘A guide to
 measure Advocacy and Policy’, from which I learned that non-profit organizations
@@ -103,23 +111,31 @@ stated six categories vis-à-vis shifts in social norms, strengthening organizat
 capacity, strengthened alliances, strengthened base of support, improved policies,
 change in impact, which represents how advocacy and policy work can lead to
 changing communities, organization management and its system.
-References:
- Elise Buisson1,2, Swanni T. Alvarado3,4, Soizig Le Stradic4,5, Leonor Patricia
-C.
-Morellato5http://www.orsimpact.com/DirectoryAttachments/1132017_44733
+
+#References:
+
+*Elise Buisson1,2, Swanni T. Alvarado3,4, Soizig Le Stradic4,5, Leonor Patricia
+C.Morellato5 http://www.orsimpact.com/DirectoryAttachments/1132017_44733
 _727_HFRP-Evaluation-Exchange-Guide-to-Measuring-Advocacy-Policy.pdf
- Hagen M, Kissling WD, Rasmussen C, De Aguiar MAM, Brown LE,
+
+*Hagen M, Kissling WD, Rasmussen C, De Aguiar MAM, Brown LE,
 Carstensen DW, et al. (2012) Biodiversity, species interactions and ecological
 networks in a fragmented world. Advanced Ecological Research 46: 89–120
- Garcia LC, Hobbs RJ, Mäes dos Santos FA, Rodrigues RR (2014) Flower and
+
+*Garcia LC, Hobbs RJ, Mäes dos Santos FA, Rodrigues RR (2014) Flower and
 fruit availability along a forest restoration gradient. Biotropica 46: 114–123
- Miller SA, Bartow A, Gisler M, Ward K, Young AS, Kaye TN (2011) Can an
+
+*Miller SA, Bartow A, Gisler M, Ward K, Young AS, Kaye TN (2011) Can an
 ecoregion serve as a seed transfer zone? Evidence from a common garden
 study with five native species. Restoration Ecology 19: 268–276
- Elise Buisson1,2, Swanni T. Alvarado3,4, Soizig Le Stradic4,5, Leonor Patricia
+
+*Elise Buisson1,2, Swanni T. Alvarado3,4, Soizig Le Stradic4,5, Leonor Patricia
 C. Morellato5 https://onlinelibrary.wiley.com/doi/pdf/10.1111/rec.12471
-PAGE 4
- https://nantucket.net/
- https://en.wikipedia.org/wiki/Nonprofit_organization#Nonprofit_vs._notfor-profit
- https://llnf.org/research
- https://en.wikipedia.org/wiki/Phenology
+
+* https://nantucket.net/
+
+*https://en.wikipedia.org/wiki/Nonprofit_organization#Nonprofit_vs._notfor-profit
+
+*https://llnf.org/research
+
+*https://en.wikipedia.org/wiki/Phenology
